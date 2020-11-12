@@ -3,7 +3,7 @@
 <!--
 **milestorme/Milestorme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 📫 How to reach me: [discord].(https://discord.gg/QHvdUzDEdJ)
+- 📫 How to reach me:  [discord.gg](https://discord.gg/QHvdUzDEdJ)
 - 🌐 Website: [milestorme.org](https://milestorme.org)
 
 <a href="https://github.com/milestorme">
