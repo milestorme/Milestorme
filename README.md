@@ -15,4 +15,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milestorme&layout=compact&theme=cobalt" />
 </a>
 
-<img align="center" src="https://gpvc.arturio.dev/milestorme" alt="milestorme's github views" />
+
