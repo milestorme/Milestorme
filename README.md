@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=milestorme)](https://github.com/milestorme/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milestorme)](https://github.com/milestorme/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=milestorme&theme=dark)](https://git.io/streak-stats)
