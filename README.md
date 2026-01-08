@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=milestorme)](https://github.com/milestorme/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milestorme)](https://github.com/milestorme/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=milestorme&theme=dark)](https://git.io/streak-stats)
+### 🔬 Stats of the Github projects
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=milestorme&&theme=github_dark_dimmed" alt="GitHub Stats"/>  
+   <br/><br/>    
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=milestorme&&theme=github_dark_dimmed" alt="Khaled's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=milestorme&&theme=github_dark_dimmed"  alt="Khaled GitHub Top Languages" />
+</div>
+<br clear="both">
+
