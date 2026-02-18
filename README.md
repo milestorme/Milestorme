@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=milestorme&&theme=github_dark_dimmed" alt="Khaled's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=milestorme&&theme=github_dark_dimmed"  alt="Khaled GitHub Top Languages" />
 </div>
 <br clear="both">
 
